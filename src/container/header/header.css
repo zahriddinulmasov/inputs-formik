@@ -1,0 +1,11 @@
+.header__top{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.header__bottom {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
